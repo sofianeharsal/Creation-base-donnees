@@ -1,4 +1,4 @@
-# Projet : Gestion des Données Clients pour une Campagne Marketing
+# Projet : Création d'une base de données et gestion des Données Clients pour une Campagne Marketing
 
 ## Description
 
